@@ -22,6 +22,10 @@
     font-size: 20px;
     cursor: pointer;
     align-items: center;
+    font-size: 1.5rem;
+}
+.btn1:hover{
+    color: rgb(153, 144, 144);
 }
 .calc{
     width: 300px;
